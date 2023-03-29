@@ -3,7 +3,7 @@
 - New QBCore
 
 ## Video Showcase
-- https://youtu.be/AvXlYqjRAhE
+- https://youtu.be/pLczcI-fkTQ
 ## Discord
 - https://discord.gg/nko
 
